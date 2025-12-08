@@ -8,5 +8,5 @@ export default defineConfig({
 })
 
 export default {
-  base: "/rickjonathan2577-cloud/"
+  base: "/rickjonathan2577-cloud/Portofolio-"
 }
